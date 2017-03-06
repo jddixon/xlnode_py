@@ -1,10 +1,14 @@
 py/xlnode_py/CHANGES
 
+v0.0.3
+    2017-03-05
+        * add pylint, coverage                                      SLOC  342
 v0.0.2
     2017-03-03
-        * add config files
+        * add config files                                          SLOC  247
 v0.0.1
     2017-03-02
         * initial commit
+
 
 
