@@ -2,11 +2,13 @@
 project:xlnode_py
 package:xlnode
 mainlang:py
-version:0.0.2
-versionDate:2017-03-03
+version:0.0.4
+versionDate:2017-06-16
 :?dirs?:
 dir:std:ghpDoc
 dir:std:dist
+dir:std:src
+dir:std:tests
 dir:std:.dvcz
 dir:pkg:xlnode
 dir:clr:build
@@ -39,4 +41,3 @@ bash:std:doPyLint
 bash:std:checkCoverage
 bash:std:bkp2u
 py:std:setup.py
-py:test:test_basics.py

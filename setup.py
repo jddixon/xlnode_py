@@ -6,7 +6,7 @@
 import re
 from distutils.core import setup
 __version__ = re.search(r"__version__\s*=\s*'(.*)'",
-                        open('xlnode/__init__.py').read()).group(1)
+                        open('src/xlnode/__init__.py').read()).group(1)
 
 # see http://docs.python.org/distutils/setupscript.html
 
@@ -19,7 +19,7 @@ setup(name='xlnode_py',
       # list it here, without the .py extension but SQuoted
       py_modules=[],
       #
-      packages=['xlnode', ],
+      packages=['src/xlnode', ],
       #
       # following could be in scripts/ subdir; SQuote
       scripts=[],
