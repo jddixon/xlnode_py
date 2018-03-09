@@ -10,8 +10,8 @@ from cryptography.hazmat.primitives import hashes, serialization
 
 from xlattice import HashTypes, check_hashtype  # , UnrecognizedSHAError
 
-__version__ = '0.1.0'
-__version_date__ = '2018-01-11'
+__version__ = '0.1.1'
+__version_date__ = '2018-03-09'
 
 
 class AbstractNode(object):
@@ -63,12 +63,12 @@ class AbstractNode(object):
 
     @property
     def sk_(self):
-        """ Return the RSA ate key used for signing. """
+        """ Return the RSA private key used for signing. """
         return self._sk
 
     @property
     def ck_(self):
-        """ Return the RSA ate key used for encrytiion. """
+        """ Return the RSA private key used for encrytiion. """
         return self._ck
 
 

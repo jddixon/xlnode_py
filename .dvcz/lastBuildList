@@ -8,22 +8,18 @@ k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
 xlnode_py
-2018-01-11 17:52:41
+2018-03-09 15:39:24
 # BEGIN CONTENT #
 xlnode_py
- .cache
-  v
-   cache
-    lastfailed bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f
  .dvcz
-  builds 0d9af393f2f47efe372dc037a656352ba4d6d871
-  lastBuildList 2768d72d280d7982802299f9a821567ff7e6ef49
+  builds 75027c43a7455c7682d9d04b789da2f37a0772a4
+  lastBuildList 2425922bbe6175a28cc71c9400438f5a1d97f177
   projCfg e61467ee0c6272be6a9401b1ab5878f695658ad9
   projCfg.local 6f56f4bdc3eeee953be456d4ba1b51def6d3fd58
-  projConfig.toml b79fa1a73f50512442222a61198113927582deb7
+  projConfig.toml 1e471253b60d887b5c644463eec8d559c50c9bc6
  .gitignore f588928d66e053d08e0c1d824b6874a244573090
  .gitignore.local 701e71ad917b19e7f6b7fd4bdc542180e9d977a7
- CHANGES 9c5c466acb0dedeb5ab612d3186f5c01f5027d37
+ CHANGES 713e4aad25bb2556a3b7c39b0c3126f3c303db46
  LICENSE-MIT.md aec2b90058ed291d26eef53badc44802cda9bcde
  MANIFEST.in ee87ecf6928c0c4c69376734eba9cf532ce748b1
  README.md 9426a7120e7b24270ec6876a702f5d82165d123d
@@ -36,18 +32,18 @@ xlnode_py
   index.md dddd99adaa9fa29b02ce125c5378df9e64c45e0d
  installit 61274e9cebc2133b97e1b7f7f06fff8113345a83
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
- requirements.txt db045681ce5f52c0b600dba2029edc66ecb18b6c
- setup.py 17600e3f9a27021aabb5b1e3fe7565ccc7dd19c4
+ requirements.txt fc8c73f44c751097050775b38776067f9529dbdf
+ setup.py 8c28133d6a2417b37a18b21d5d71609e2d2593be
  src
   xlnode
-   __init__.py ca622c230f208d7f7adbc74f08ec13894bf8ec89
+   __init__.py cc8d24277f7950a7564bf721f605a0e944512cea
  styleit f8dfa13402d01b50681fafda33b850aef4450cb5
  test.all 31adba762359ea9bde94da1f64acf26219def4cd
- test_requirements.txt 8ac9c04f36ea0f68a1ec479f6d79cfe0133b8300
+ test_requirements.txt 3cb16ceb27936e9233e1bd00eac702f2e8a1b43c
  tests
   test_basics.py 144aaf4b2ddc191e5114537007281860f71ffa75
   test_node.py f19deca2c99ffa27342ffc46a211edaa09027f7f
- tox.ini 05c6302045673629c15467c09a570342a9845cf1
+ tox.ini 4eb94644a2fba838003e439be9c2c99460231df6
 # END CONTENT #
 
-S4bu5SnCuhzPs/bQZWx2d2BMRKdC6FA6vKujMwEhV5ZnD/derNB86r/So3LAUj/2w81D3CiDXtZZpbj+6erjM1P+//XWZUDLeqdPH6A8dnjsQ5RoeWrL0dLIWAfSmEsXx+U0JyL/MA5hRkpFZizqzs3PbOy/AZezdPv6sMc3Dz7oCqNOY6GJrA5djhE93BVqHTmsAOO3TiHCEu6mHQnJ/Pq+qy1R9O+pMM8pfQYbt8OgxjvQcoe5ArZYoxlEgXWcWvcTuCN0gJfTnd1+jke0bBTkpbuNPxzxHaizpoRBVFg7aBY2JXVzKTnSNSWMAfp/8t6h8DclwsjDBL0nVjgQkw==
+JJErB9ZRVkYmzJVU1fomjVZAG2H/nsjGoW6Wqq6ogMwo37477CFbxNnqLXTTbgFy9tfmXjwnNVaee82b22nYhP609l58eGQYLi9OG13g0BtBUCiftsmlhI+Gnf84oo+ObarvzcYNfF2xlTN0zbjgxbkBdj+miBDeYtgVdlJ2YKaUMbPjCx0GDHJPKRZd+CISOaFYi1Lf2oguV2tYFZK6SDid+ILxGVn6eZeVW66s+T1Rizpaf4fgIWiYr0pkfkcRbjY+RgtDbahxO8O931z0yDDuwc6kjzOVx9VBN/kuWZGxh1ZhuZrIGtZq+u5rT/82UYwbB+9qjNQLUP/eKh9uhQ==

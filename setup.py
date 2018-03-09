@@ -12,7 +12,7 @@ if exists('README.md'):
         LONG_DESC = file.read()
 
 setup(name='xlnode_py',
-      version='0.1.0',
+      version='0.1.1',
       author='Jim Dixon',
       author_email='jddixon@gmail.com',
       long_description=LONG_DESC,
@@ -31,8 +31,6 @@ setup(name='xlnode_py',
           'License :: OSI Approved :: MIT License',
           'Natural Language :: English',
           'Programming Language :: Python 2.7',
-          'Programming Language :: Python 3.3',
-          'Programming Language :: Python 3.4',
           'Programming Language :: Python 3.5',
           'Programming Language :: Python 3.6',
           'Programming Language :: Python 3.7',
